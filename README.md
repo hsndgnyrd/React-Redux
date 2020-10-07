@@ -17,7 +17,7 @@ Basic state management with 2 endpoint (categories, products). Its listing produ
 **Clone the repo**
 
 ```
-git clone git@github.com:hsndgnyrd/redux-learn.git
+git clone git@github.com:hsndgnyrd/React-Redux.git
 ```
 
 **Install dependencies**
